@@ -1,6 +1,6 @@
 <div>
 
-  <h2>Inventory System:</h2>
+  <h2>Developing an Inventory System in a 3D scene:</h2>
   <ul>
     <li> <b>Project Name:</b> Inventory System
     <li> <b>Team:</b> Solo
